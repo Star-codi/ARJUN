@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/ARJUN/static/css/main.507a3381.css",
-    "main.js": "/ARJUN/static/js/main.e7ec955d.js",
+    "main.css": "/ARJUN/static/css/main.7c5780e5.css",
+    "main.js": "/ARJUN/static/js/main.931da4af.js",
     "index.html": "/ARJUN/index.html"
   },
   "entrypoints": [
-    "static/css/main.507a3381.css",
-    "static/js/main.e7ec955d.js"
+    "static/css/main.7c5780e5.css",
+    "static/js/main.931da4af.js"
   ]
 }
